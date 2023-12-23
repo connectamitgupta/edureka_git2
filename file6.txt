@@ -1,0 +1,4 @@
+testing creation of file at remote repo server and committed it
+and now renamed it as file 6 and introdued line 2
+
+-------------------------------- next line from here -----------
