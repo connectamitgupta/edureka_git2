@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is 7 file
-=======
-this file added on central repo
->>>>>>> dfb7cb5d40d2e26b368b5909356e326586824ab5
